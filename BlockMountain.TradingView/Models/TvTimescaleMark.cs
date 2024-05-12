@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace TradingView.Models
+﻿namespace BlockMountain.TradingView.Models
 {
     /// <summary>
     /// Represents a timescale mark.

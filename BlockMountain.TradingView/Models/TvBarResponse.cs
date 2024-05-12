@@ -1,7 +1,6 @@
 ﻿using BlockMountain.TradingView.Converters;
 using System;
 using System.Text.Json.Serialization;
-using TradingView.Converters;
 
 namespace BlockMountain.TradingView.Models
 {

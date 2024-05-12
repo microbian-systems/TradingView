@@ -1,7 +1,6 @@
 ﻿using BlockMountain.TradingView.Models;
 using System;
 using System.Threading.Tasks;
-using TradingView.Models;
 
 namespace BlockMountain.TradingView
 {

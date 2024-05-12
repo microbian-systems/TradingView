@@ -1,5 +1,5 @@
-﻿using System.Text.Json.Serialization;
-using TradingView.Converters;
+﻿using BlockMountain.TradingView.Converters;
+using System.Text.Json.Serialization;
 
 namespace BlockMountain.TradingView.Models
 {
